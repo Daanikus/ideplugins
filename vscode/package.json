@@ -22,7 +22,7 @@
 		"commands": [
 			{
 				"command": "codelingo.capture",
-				"title": "CodeLingo capture"
+				"title": "CodeLingo Capture"
 			}
 		],
 		"configuration": {
