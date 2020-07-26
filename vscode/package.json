@@ -1,7 +1,7 @@
 {
 	"name": "codelingo",
-	"publisher": "codelingo",
-	"displayName": "codelingo",
+	"publisher": "CodeLingo",
+	"displayName": "CodeLingo",
 	"description": "CodeLingo Capture plugin for VSCode",
 	"version": "0.0.1",
 	"repository": {
